@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2H639H2DWD.tech.insense.FindMe",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
